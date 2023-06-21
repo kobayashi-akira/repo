@@ -1,2 +1,2 @@
 select *
-from diamonds limit 100
+from diamonds limit 10
